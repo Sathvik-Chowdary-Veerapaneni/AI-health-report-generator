@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.vscode/
+
+# Data and output directories (to be added later if needed)
+data/
+output/
+
+# Miscellaneous
+*.log
+*.pid
