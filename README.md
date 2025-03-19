@@ -9,3 +9,6 @@ This project generates personalized health reports using AI and NLP techniques. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sathvik-Chowdary-Veerapaneni/AI-health-report-generator.git
+
+
+Documentation https://docs.google.com/document/d/1XpROBwFPd3oHiQ2qTMJqBGtxXv1hZwBBmCfgDCGUYJg/edit?usp=sharing
