@@ -1,4 +1,4 @@
-# AI-health-report-generator
+# EHR Report Generation System
 AI-powered personalized Electronic health record report generation. Built with LangChain and NLP to create structured reports from patient notes and lab results.
 
 
